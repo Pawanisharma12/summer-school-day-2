@@ -1,0 +1,23 @@
+body {
+  font-family:cursive;
+  
+}
+.bio{
+    font-family:cursive;
+    font-size: large;
+    color:darkblue;
+    background-color: darkmagenta;
+    color:aqua;
+}
+#profile-pic {
+  border-radius: 50%;
+}
+.hobbies{
+    background-color: darkmagenta;
+     color:aqua;
+}
+.contact{
+    background-color: darkmagenta;
+    
+
+}
